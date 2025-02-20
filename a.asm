@@ -7,6 +7,62 @@ mov loop_end, 0xFF     ;init the loop end as 255
 
 
 
+/*
+result = 
+
+MEM.SET16(00, 00, 00)
+MEM.SET16(02, 00, FF)
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
